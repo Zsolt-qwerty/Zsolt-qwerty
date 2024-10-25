@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm on a new journey in my life and it is a very exciting one!
+I'm currently enrolled to School of Code bootcamp to change my life for the better. Wish me luck!
 <!--
 **Zsolt-qwerty/Zsolt-qwerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
