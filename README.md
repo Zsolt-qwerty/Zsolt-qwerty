@@ -1,9 +1,21 @@
-## Hi there 👋
-I'm on a new journey in my life and it is a very exciting one!
-I'm currently enrolled to the School of Code bootcamp to change my life for the better. Wish me luck! 🍀
+## 👋 Hi there
+I am on a new journey in my life and it is a very exciting one!<br>
+I was selected to the School of Code bootcamp to change my life for the better and by doing so change others' lives too.<br>
+Wish me luck! 🍀
 
-- 🔭 I’m currently working on: a RESTful blog API
-- 🧩 Tech stack: React, Javascript, Node.js, Express, PostgreSQL, Vitest, Playwright, HTML, CSS, Git and GitHub
+#### 🔭 I’m currently working on
+- a RESTful blog API; Node.js, Express
+- a blog web application in React
+
+#### 🧩 Tech stack
+- React
+- Javascript
+- Node.js
+- Express
+- PostgreSQL
+- Vitest, Playwright
+- HTML, CSS
+- Git and GitHub
 <!--
 **Zsolt-qwerty/Zsolt-qwerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
