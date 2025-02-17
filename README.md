@@ -8,8 +8,8 @@ Wish me luck! 🍀
 - a blog web application in React
 
 #### 🧩 Tech stack
-- React
-- Javascript
+- React, Next.js
+- Javascript, Typescript
 - Node.js
 - Express
 - PostgreSQL
