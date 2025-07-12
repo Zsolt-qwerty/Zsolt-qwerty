@@ -1,15 +1,15 @@
 ## 👋 Hi there
 I am on a new journey in my life and it is a very exciting one!<br>
-I was selected to the School of Code bootcamp to change my life for the better and by doing so change others' lives too.<br>
+I was selected to the School of Code bootcamp to change my life for the better and by doing so to be able to change others' lives too.<br>
 Wish me luck! 🍀
 
 #### 🔭 I’m currently working on
+- stockbook - a stock tracking web app; TypeScript, React
 - a RESTful blog API; Node.js, Express
-- a blog web application in React
 
 #### 🧩 Tech stack
 - React, Next.js
-- Javascript, Typescript
+- Typescript, Javascript
 - Node.js
 - Express
 - PostgreSQL
